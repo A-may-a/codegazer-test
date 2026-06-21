@@ -1,7 +1,7 @@
-def multiply(x,y):
-    return x*y
+def add(x,y):
+    return x+y
 
-result = multiply (5,8)
+result = add(5,8)
 print(result)
 
 import os  #unnecessary import adding to test bot
